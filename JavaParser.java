@@ -1,7 +1,6 @@
 import java.io.*;
 import java.nio.*;
 import java.util.*;
-
 /**
  * JavaParser.
  * Parse a Java program into individual words.
